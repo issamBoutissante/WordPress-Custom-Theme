@@ -1,0 +1,33 @@
+/*
+Theme Name: My First Theme In WordPress
+Author: Boutissante Issam
+Version: 1.0
+*/
+* {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+  margin: 0;
+}
+a {
+  text-decoration: none;
+}
+
+header,
+footer {
+  text-align: center;
+  background-color: rgba(255, 0, 0, 0.685);
+  color: white;
+  font-size: 2vw;
+}
+header {
+  padding: 2vh 1vw;
+  border-bottom: 2px solid black;
+}
+footer {
+  padding: 2vh 1vw;
+  border-top: 2px solid black;
+}
+center {
+  padding: 5vh 0;
+}
